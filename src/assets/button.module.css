@@ -1,0 +1,22 @@
+.myButton{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 18px;
+    color: #181326;
+    border-radius: 4px;
+    background-color: rgb(9, 162, 24);
+}
+
+.myButton2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 18px;
+    color: #181326;
+    background-color: #d76f1f;
+    border-radius: 4px;
+
+}
